@@ -1,9 +1,9 @@
 # vet
 **mini project with Html , Css**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal](![11 08 2024_18 01 23_REC](https://github.com/user-attachments/assets/03418650-81bf-469f-adf0-a6cc59ae6d80))
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final]()
 
 - [Demo Project](https://fatemeabdolmaleki.github.io/vet/)
 
